@@ -3,8 +3,8 @@ export enum ColumnType {
     IN_PROGRESS = 'In Progress',
     BLOCKED = 'Blocked',
     COMPLETED = 'Completed',
-}
-
-export enum ItemType {
+  }
+  
+  export enum ItemType {
     TASK = 'Task',
-}
+  }

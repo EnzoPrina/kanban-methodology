@@ -16,7 +16,7 @@ function App() {
         bgClip="text"
         mt={4}
       >
-        UI | Enzo Prina
+        Kanban | Enzo Prina
       </Heading>
       <DarkModeIconButton position='absolute' top={0} right={2}/>
       <Container maxWidth="container.lg" px={4} py={10}>
